@@ -1,5 +1,5 @@
 - 👋 Hi, We are @spectrayan
-- 👀 We believe in harnessing the power of artificial intelligence to transform the lives of individuals with autism. Our mission is to provide cutting-edge, AI-driven applied behavior analysis (ABA) therapy that is accessible, personalized, and effective.
+- 👀 We believe in harnessing the power of artificial intelligence to transform the lives of individuals with ASD, ADHD, learning and developmental disabilities. Our mission is to provide cutting-edge, AI-driven applied behavior analysis (ABA) therapy that is accessible, personalized, and effective.
 
 Our innovative approach combines the latest advancements in AI technology with evidence-based ABA techniques to create a seamless and adaptive therapy experience. We focus on understanding the unique needs of each individual, tailoring our interventions to help them achieve their fullest potential.
 
